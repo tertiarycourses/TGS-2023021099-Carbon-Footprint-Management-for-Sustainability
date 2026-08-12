@@ -2,6 +2,8 @@
 
 Professional WSQ courseware for **TGS-2023021099**, rebuilt as version **v7** for Tertiary Infotech Academy Pte Ltd.
 
+![Carbon Footprint Management for Sustainability courseware](screenshot.png)
+
 [Course registration page](https://www.tertiarycourses.com.sg/wsq-carbon-footprint-management-for-sustainability.html) · [Courseware on Google Drive](https://drive.google.com/drive/folders/1GTzvCN0zjUFrn2GOroF5Zsvde5XCmRE7)
 
 ## Package
