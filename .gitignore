@@ -1,0 +1,14 @@
+.DS_Store
+.env
+.claude/
+.claude/lms_tms_api_key
+.claude/.env
+__pycache__/
+*.pyc
+courseware/archive/
+assessment/
+reference/
+courseware/rendered/
+courseware/qa-renders/
+build/qa/
+build/.tmp/
