@@ -1,8 +1,8 @@
 # Activity 8: Design an Employee ActNow Programme
 
-**Real-use-case lens:** Singapore professional-services firm  
-**Source lens:** United Nations ActNow  
-**Objective:** Convert selected personal actions into a privacy-respecting corporate engagement programme with measurable outcomes.  
+**Real-use-case lens:** Singapore professional-services firm
+**Source lens:** United Nations ActNow
+**Objective:** Convert selected personal actions into a privacy-respecting corporate engagement programme with measurable outcomes.
 **Deliverable:** Programme canvas, measurement plan and communication copy
 
 ## Scenario

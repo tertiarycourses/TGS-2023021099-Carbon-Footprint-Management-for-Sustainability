@@ -1,8 +1,8 @@
 # Activity 3: Find Hotspots in a Farm-to-Table Value Chain
 
-**Real-use-case lens:** CP Foods-inspired teaching case  
-**Source lens:** SAP customer spotlight and GHG Protocol  
-**Objective:** Calculate a screening footprint, rank hotspots and propose a data-improvement plan.  
+**Real-use-case lens:** CP Foods-inspired teaching case
+**Source lens:** SAP customer spotlight and GHG Protocol
+**Objective:** Calculate a screening footprint, rank hotspots and propose a data-improvement plan.
 **Deliverable:** Calculated footprint, Pareto chart and hotspot recommendation
 
 ## Scenario

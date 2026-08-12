@@ -1,8 +1,8 @@
 # Activity 6: Prioritise a Reduction Portfolio
 
-**Real-use-case lens:** WITTE Automotive-inspired teaching case  
-**Source lens:** SAP customer spotlight, CarbonChain and IMD  
-**Objective:** Combine MACC, weighted criteria, dependencies and budget constraints into a transparent portfolio.  
+**Real-use-case lens:** WITTE Automotive-inspired teaching case
+**Source lens:** SAP customer spotlight, CarbonChain and IMD
+**Objective:** Combine MACC, weighted criteria, dependencies and budget constraints into a transparent portfolio.
 **Deliverable:** MACC, MCDA matrix, funded roadmap and decision record
 
 ## Scenario

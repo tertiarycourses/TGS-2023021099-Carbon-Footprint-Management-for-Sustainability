@@ -15,4 +15,4 @@ The 221-slide legacy deck was reviewed before the v7 rebuild. Its essential comp
 | Carbon reduction plan | Expanded with target design, KPI tree, governance, RACI, initiative register, stage gates, M&V and management review |
 | Legacy activities | Replaced by nine connected real-use-case activities, each with its own folder, scenario, questions, data and detailed procedure |
 
-The v7 slide deck deliberately excludes step-by-step activity procedures. Those procedures are maintained in each `labs/activity-*` folder and in the Learner Guide.
+The v7 slide deck deliberately excludes step-by-step activity procedures. Those procedures are maintained in each `activities/activity-*` folder and in the Learner Guide.

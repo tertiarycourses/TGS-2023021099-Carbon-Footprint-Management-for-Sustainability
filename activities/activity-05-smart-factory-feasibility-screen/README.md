@@ -1,8 +1,8 @@
 # Activity 5: Screen a Smart-Factory Carbon Initiative
 
-**Real-use-case lens:** Matsumoto Precision-inspired teaching case  
-**Source lens:** SAP customer spotlight and Yurtay (2025)  
-**Objective:** Assess the technical, operational, data and financial feasibility of IoT/ERP-enabled energy optimisation.  
+**Real-use-case lens:** Matsumoto Precision-inspired teaching case
+**Source lens:** SAP customer spotlight and Yurtay (2025)
+**Objective:** Assess the technical, operational, data and financial feasibility of IoT/ERP-enabled energy optimisation.
 **Deliverable:** Feasibility scorecard and pilot charter
 
 ## Scenario

@@ -5,7 +5,7 @@ Design helpers are the same set used by the tertiary-course-slides skill that
 produced the n8n reference deck (cover, section, content, two_col, cards3,
 big_statement, step_slide, test_slide, brk). Content is driven entirely by
 course_data.py + data_domainN.py so the deck stays 100% aligned with the LP,
-LG and labs.
+LG and activities.
 """
 import os, sys, copy, re, json
 from pptx import Presentation
@@ -28,7 +28,7 @@ from data_domain3 import DOMAIN3, SLIDES3
 ACTIVITIES = DOMAIN1 + DOMAIN2 + DOMAIN3
 
 def _find_repo(start):
-    """Locate the course repo (a dir containing both courseware/ and labs/).
+    """Locate the course repo (a dir containing both courseware/ and activities/).
     Env COURSE_REPO overrides. Keeps the build working wherever the skill lives."""
     env = os.environ.get("COURSE_REPO")
     if env and os.path.isdir(env):
@@ -36,7 +36,7 @@ def _find_repo(start):
     d = start
     for _ in range(8):
         d = os.path.dirname(d)
-        if os.path.isdir(os.path.join(d, "courseware")) and os.path.isdir(os.path.join(d, "labs")):
+        if os.path.isdir(os.path.join(d, "courseware")) and os.path.isdir(os.path.join(d, "activities")):
             return d
     return os.path.dirname(os.path.dirname(HERE))
 REPO = _find_repo(HERE)
@@ -604,7 +604,7 @@ def test_slide(act_title,text,kicker,troubleshoot=None):
     txt(s,Inches(1.2),Inches(2.12),Inches(11),Inches(0.44),[[("✅  Expected result",17,GREEN,True)]])
     txt(s,Inches(1.2),Inches(2.62),Inches(11.0),Inches(1.35),[[(text,15,INK,False)]])
     tb=troubleshoot or [
-        ("Nothing happens","Check the .env file is in the labs folder and the key has no quotes or spaces."),
+        ("Nothing happens","Check the required activity file is present and the input data uses the documented format."),
         ("Auth or 401 error","Re-copy the API key from AI Studio; confirm GOOGLE_GENAI_USE_VERTEXAI=0."),
         ("ModuleNotFoundError","Run uv sync again, and prefix commands with uv run so the venv is used."),
     ]

@@ -1,8 +1,8 @@
 # Activity 4: Model a Singapore Fleet Transition
 
-**Real-use-case lens:** LionCity Logistics  
-**Source lens:** EMA grid statistics and GHG Protocol  
-**Objective:** Build business-as-usual and reduction scenarios for diesel, route optimisation and fleet electrification.  
+**Real-use-case lens:** LionCity Logistics
+**Source lens:** EMA grid statistics and GHG Protocol
+**Objective:** Build business-as-usual and reduction scenarios for diesel, route optimisation and fleet electrification.
 **Deliverable:** 2030 scenario model, assumptions register and recommendation
 
 ## Scenario

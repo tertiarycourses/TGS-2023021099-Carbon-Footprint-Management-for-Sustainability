@@ -40,7 +40,7 @@ Professional WSQ courseware for **TGS-2023021099**, rebuilt as version **v7** fo
 assessment/        Four current assessment DOCX files
 build/             Single-source models and generators
 courseware/        PPTX, PDF, Learner Guide and Lesson Plan
-labs/              One self-contained folder per activity
+activities/        One self-contained folder per activity
 reference/         Legacy source artifacts retained locally and excluded from GitHub
 SOURCES.md         Evidence register and source-use rules
 ```
@@ -49,7 +49,7 @@ SOURCES.md         Evidence register and source-use rules
 
 ```bash
 python3 build/build_slides.py
-python3 build/build_labs.py
+python3 build/build_activities.py
 python3 build/build_documents.py
 python3 build/build_assessment.py
 ```

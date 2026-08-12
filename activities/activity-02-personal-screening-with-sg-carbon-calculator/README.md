@@ -1,8 +1,8 @@
 # Activity 2: Use the SG Carbon Calculator as an Engagement Tool
 
-**Real-use-case lens:** Employee carbon-literacy campaign  
-**Source lens:** SG Carbon Calculator and UN ActNow  
-**Objective:** Use personal-footprint screening responsibly, then translate behavioural insights into corporate data needs.  
+**Real-use-case lens:** Employee carbon-literacy campaign
+**Source lens:** SG Carbon Calculator and UN ActNow
+**Objective:** Use personal-footprint screening responsibly, then translate behavioural insights into corporate data needs.
 **Deliverable:** Calculator evidence, limitations note and engagement experiment
 
 ## Scenario

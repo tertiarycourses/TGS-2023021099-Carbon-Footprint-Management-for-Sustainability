@@ -1,8 +1,8 @@
 # Activity 7: Prepare a Singapore MR and Carbon-Tax Readiness Plan
 
-**Real-use-case lens:** Jurong specialty-chemicals facility  
-**Source lens:** NEA Carbon Tax and MR requirements  
-**Objective:** Screen regulatory status, data controls, reporting obligations and carbon-price exposure.  
+**Real-use-case lens:** Jurong specialty-chemicals facility
+**Source lens:** NEA Carbon Tax and MR requirements
+**Objective:** Screen regulatory status, data controls, reporting obligations and carbon-price exposure.
 **Deliverable:** Obligations matrix, control plan and screened tax exposure
 
 ## Scenario

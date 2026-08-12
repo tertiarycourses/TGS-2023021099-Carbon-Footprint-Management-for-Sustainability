@@ -14,7 +14,7 @@ def write(path,text):
     with open(path,"w",encoding="utf-8",newline="") as f: f.write(text)
 
 for a in DOMAIN1+DOMAIN2+DOMAIN3:
-    folder=os.path.join(REPO,"labs",f"activity-{a['id']:02d}-{a['slug']}")
+    folder=os.path.join(REPO,"activities",f"activity-{a['id']:02d}-{a['slug']}")
     os.makedirs(os.path.join(folder,"data"),exist_ok=True)
     readme=f"""# Activity {a['id']}: {a['title']}
 
@@ -82,4 +82,4 @@ This activity uses **{a['source']}** as its professional or real-use-case lens. 
     write(os.path.join(folder,"QUESTIONS.md"),questions)
     write(os.path.join(folder,"data","activity-data.csv"),a["data"])
 
-print("Generated 9 activity folders under labs/")
+print("Generated 9 activity folders under activities/")

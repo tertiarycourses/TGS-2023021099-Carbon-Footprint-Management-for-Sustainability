@@ -1,8 +1,8 @@
 # Activity 9: Build the Board-Ready Carbon Reduction Plan
 
-**Real-use-case lens:** Lion City Precision Pte Ltd  
-**Source lens:** Integrated course case using GHG Protocol, ISO/EMS and Singapore context  
-**Objective:** Integrate hotspot analysis, prioritisation, governance and action planning into a defensible 2030 plan.  
+**Real-use-case lens:** Lion City Precision Pte Ltd
+**Source lens:** Integrated course case using GHG Protocol, ISO/EMS and Singapore context
+**Objective:** Integrate hotspot analysis, prioritisation, governance and action planning into a defensible 2030 plan.
 **Deliverable:** Ten-slide board pack plus action register and management-review dashboard
 
 ## Scenario

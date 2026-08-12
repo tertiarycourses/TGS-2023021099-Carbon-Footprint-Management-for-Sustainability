@@ -1,8 +1,8 @@
 # Activity 1: Map a Multi-Site Corporate Inventory
 
-**Real-use-case lens:** Singapore retail and distribution group  
-**Source lens:** GHG Protocol Corporate Standard  
-**Objective:** Define organisational and operational boundaries, classify sources and identify data gaps.  
+**Real-use-case lens:** Singapore retail and distribution group
+**Source lens:** GHG Protocol Corporate Standard
+**Objective:** Define organisational and operational boundaries, classify sources and identify data gaps.
 **Deliverable:** Boundary memo, scope map and data-gap register
 
 ## Scenario
